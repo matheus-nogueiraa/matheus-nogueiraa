@@ -1,4 +1,5 @@
-### Olá, Eu sou o Matheus Vaz! ✌🏻
+### Olá 👋
+Sou um Programador júnior full-stack, 21 anos. Trabalho com JavaScript, TypeScript, Vue e Node. Gosto de ideias inovadoras e estou sempre em busca de novos desafios!
 
 <div>
   <a https://github.com/matheus-nogueiraa>
