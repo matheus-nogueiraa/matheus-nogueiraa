@@ -1,4 +1,6 @@
-### Olá, me chamo Matheus Vaz 👋
+<h2>Olá, me chamo Matheus Vaz 👋</h2>
+
+### Sobre
 🧑‍💻 Desenvolvedor Web Full Stack
 <br>
 🧑‍🎓 Estudante de Análise de Desevolvimento de Sistemas
