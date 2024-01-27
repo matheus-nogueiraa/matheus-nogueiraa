@@ -1,11 +1,12 @@
 ### Olá 👋
 Sou um Programador júnior full-stack, 21 anos. Trabalho com JavaScript, TypeScript, Vue e Node. Gosto de ideias inovadoras e estou sempre em busca de novos desafios!
-
+<!--
 <div>
   <a https://github.com/matheus-nogueiraa>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-nogueiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nogueiraa&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+</div
+>-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
