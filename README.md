@@ -3,7 +3,7 @@
 ### Sobre
 🧑‍💻 Desenvolvedor Web Full Stack Júnior
 <br>
-🧑‍🎓 Formando em Análise de Desevolvimento de Sistemas
+🧑‍🎓 Formado em Análise de Desevolvimento de Sistemas
 <hr>
 
 ### Linguagens
