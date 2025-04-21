@@ -53,6 +53,11 @@ Olá! Sou Matheus Vaz, tenho 22 anos e sou um desenvolvedor full stack com foco 
 <a href="https://www.linkedin.com/in/matheus--nogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:matheus.vs.br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+✨ Obrigado por passar por aqui! Sempre aberto para conexões, projetos ou uma boa conversa sobre código.
+
 <hr>
 
-✨ Obrigado por passar por aqui! Sempre aberto para conexões, projetos ou uma boa conversa sobre código.
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheus-nogueiraa&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nogueiraa&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+</div>
