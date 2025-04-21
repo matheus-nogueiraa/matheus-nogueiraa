@@ -58,6 +58,6 @@ Olá! Sou Matheus Vaz, tenho 22 anos e sou um desenvolvedor full stack com foco 
 <hr>
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheus-nogueiraa&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nogueiraa&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheus-nogueiraa&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nogueiraa&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </div>
