@@ -44,7 +44,9 @@ Olá! Sou Matheus Vaz, tenho 22 anos e sou um desenvolvedor full stack com foco 
   <img align="center" alt="VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Eclipse" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="DBeaver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
-  <img align="center" alt="DBeaver" height="50" width="50" src="https://cdn6.aptoide.com/imgs/d/0/f/d0fd60234c85f2384f4c7e54f6df656f_icon.png" />
+  <img align="center" alt="Fluig" height="50" width="50" src="https://cdn6.aptoide.com/imgs/d/0/f/d0fd60234c85f2384f4c7e54f6df656f_icon.png" />
+  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
 </span>
 
 <hr>
